@@ -1,4 +1,4 @@
-WARD,LOCATION,ADDRESS,Address + City,BILINGUAL VOTING OFFICIAL PRESENT,Lat,Long
+WARD,LOCATION,old ADDRESS,Address,BILINGUAL VOTING OFFICIAL PRESENT,Lat,Long
 Ward 1,Goldblatts Building,1615 W. Chicago Ave.,"1615 W. Chicago Ave. Chicago, Il",Spanish and Polish,41.89596,-87.66795
 Ward 2,Near North Library,310 W. Division St.,"310 W. Division St. Chicago, Il",,41.90411,-87.63665
 Ward 3,Dawson Technical Institute,3901 S. State St.,"3901 S. State St. Chicago, Il",,41.82278,-87.62539
